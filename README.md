@@ -441,6 +441,13 @@ Contact.html
 ```
 
 ## OUTPUT:
+![1](https://github.com/Sachin-vlr/productcompanywebsite/assets/113497666/e7cc7cfb-ecae-45c7-8792-de827fcc91e3)
+![2](https://github.com/Sachin-vlr/productcompanywebsite/assets/113497666/453e3964-1491-4e80-aa28-9823f390c3ac)
+![3](https://github.com/Sachin-vlr/productcompanywebsite/assets/113497666/571873e6-dc88-4493-aeff-78b76a9870cd)
+![4](https://github.com/Sachin-vlr/productcompanywebsite/assets/113497666/fb7965aa-e1d7-429f-842b-172a39430fc4)
+![5](https://github.com/Sachin-vlr/productcompanywebsite/assets/113497666/d3a7529e-8edf-4f0a-9876-9cda4116333d)
+![6](https://github.com/Sachin-vlr/productcompanywebsite/assets/113497666/acdc5d1e-2676-485e-b3e4-2e1207b60804)
+
 
 ### Home Page:
 
